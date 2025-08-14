@@ -137,6 +137,6 @@ E execute com:
 ### &#x20;Autor
 
 Thiago Papudim
-🔗 \[[Seu LinkedIn ou site pessoal](https://thiago-papudim.github.io/imersaocss/)]
+🔗 \[[Site pessoal](https://thiago-papudim.github.io/imersaocss/)]
 
 ---
